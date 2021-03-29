@@ -5,3 +5,4 @@ Yang menjadikan script ini cocok sebagai DIY project kontak motor menggunakan Fi
 Pada script ini saya Outputkan ke relay 1 sebagai kontak motor dan relay 2 sebagai alarm. </br>
 
 Silahkan modifikasi sesuai keinginan.
+# Masih Dalam Pengembangan
